@@ -1,2 +1,2 @@
-# odds-and-ends
-Misc, unsorted experiments
+# Miscellaneous
+Misc experiments
